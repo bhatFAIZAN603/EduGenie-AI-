@@ -1,0 +1,7 @@
+{
+  "name": "EduGenie",
+  "description": "An AI-powered educational companion for students to chat, analyze images, and take quizzes with a daily credit system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
